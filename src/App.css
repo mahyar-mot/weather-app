@@ -1,0 +1,12 @@
+.App {
+    padding: 20px;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
